@@ -1,10 +1,16 @@
-# Mern Book Search Engine
+# MERN BOOK SEARCH FRONTEND [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-## Description
+## TABLE OF CONTENTS 
+- [Description](#DESCRIPTION)
+- [Screenshots](#SCREENSHOTS)
+- [Links](#LINKS)
+- [Contact](#CONTACT)
+
+## DESCRIPTION
 
 The objective of this project was to take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
 
-## Screenshot
+## SCREENSHOTS
 
 The following images shows the web application's appearance and functionality on a laptop:
 
@@ -14,4 +20,11 @@ The following images shows the web application's appearance and functionality on
 
 ![Screenshot](https://i.ibb.co/HN1hkr3/Google-Book-Search-1.png)
 
+## LINKS
+
 Click [here](https://frozen-depths-23834.herokuapp.com/) to view the application!
+
+## CONTACT
+
+If you would like to contact me regarding this project please reach out to me either on 
+[LinkedIn](https://www.linkedin.com/in/leanne-gallagher/) or [GitHub](https://github.com/lenny-g)
